@@ -4,3 +4,5 @@
 2. Calculadora simples
 3. Atividade manipular DOM
 4. Cards profissão
+5. Array
+6. [Funcionários](./app-funcionarios.js)
